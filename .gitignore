@@ -11,6 +11,9 @@
 *.sln.docstates
 *.env
 
+*.csproj
+*.CSharpBasics.sln‎
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
